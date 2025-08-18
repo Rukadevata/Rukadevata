@@ -1,10 +1,4 @@
-<h1 align="center">Hey 👋 What's Up? I'm Rukadevata</h1>
-
-###
-
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
-</div>
+<h1 align="center">👋 Hello World!</h1>
 
 ###
 
