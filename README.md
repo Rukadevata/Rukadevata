@@ -1,22 +1,19 @@
 <h1 align="center">Hello World!!!</h1>
 
-###
-
 <p align="center">My name is Bama and I'm a student, from SMK Negeri 1 Cianjur.</p>
 
-###
+---
 
-<h2 align="left">🧑‍💻 About me</h2>
+## 🧑‍💻 About me
 
-###
+  - ✨ Creating bugs since 2024
+  - 📚 I'm currently learning Dart and PHP
+  - 🎯 Goals: Create applications that run well
+  - 🎲 Fun fact: Life is not peaceful if the task is not finished
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Dart and PHP<br>🎯 Goals: Create applications that run well<br>🎲 Fun fact: Life is not peaceful if the task is not finished</p>
+---
 
-###
-
-<h2 align="left">🛠️ I code with</h2>
-
-###
+## 🛠️ I code with
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -32,25 +29,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
-###
+---
 
-<h2 align="left">🔥 My stats</h2>
-
-###
+## 🔥 My stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rukadevata&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rukadevata&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+---
 
 <img src="https://raw.githubusercontent.com/rukadevata/rukadevata/output/snake.svg" alt="Snake animation" />
 
-###
+---
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rukadevata.rukadevata&"  />
 </div>
 
-###
+---
