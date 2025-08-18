@@ -1,17 +1,22 @@
-<h1 align="center">Hello World!</h1>
-
-<h2 align="left">👩‍💻 About Me</h2>
-
-<p align="left">
-  ✨ Creating bugs since 2024 <br>
-  📚 I'm currently learning Dart and PHP <br>
-  🎯 Goals: Create a useful application project <br>
-  🎲 Fun fact: Can't sleep peacefully if the task isn't finished
-</p>
+<h1 align="center">Hello World!!!</h1>
 
 ###
 
-<h2 align="left">🛠 I Code With</h2>
+<p align="center">My name is Bama and I'm a student, from SMK Negeri 1 Cianjur.</p>
+
+###
+
+<h2 align="left">🧑‍💻 About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Dart and PHP<br>🎯 Goals: Create applications that run well<br>🎲 Fun fact: Life is not peaceful if the task is not finished</p>
+
+###
+
+<h2 align="left">🛠️ I code with</h2>
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -29,31 +34,23 @@
 
 ###
 
-<h2 align="left">🔥 My Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rukadevata&show_icons=true&theme=dracula&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rukadevata&layout=compact&theme=dracula&langs_count=6" height="150" alt="languages graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rukadevata&theme=dracula&hide_border=false&border_radius=5" height="180" alt="streak graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Rukadevata&theme=dracula&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
-</div>
-
-<br>
+<h2 align="left">🔥 My stats</h2>
 
 ###
 
-<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rukadevata&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rukadevata&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 <img src="https://raw.githubusercontent.com/rukadevata/rukadevata/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rukadevata.rukadevata&"  />
+</div>
 
 ###
