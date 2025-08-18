@@ -56,16 +56,14 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rukadevata/Rukadevata/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rukadevata/Rukadevata/output/snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Rukadevata/Rukadevata/output/snake.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/rukadevata/rukadevata/output/snake.svg" alt="Snake animation" />
+
+###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rukadevata/Rukadevata/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rukadevata/Rukadevata/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rukadevata/Rukadevata/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rukadevata/rukadevata/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rukadevata/rukadevata/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rukadevata/rukadevata/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
