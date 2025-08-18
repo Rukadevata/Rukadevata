@@ -1,24 +1,27 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's Up? I'm Rukadevata</h1>
 
 ###
 
-<p align="left">My name is Bama and I'm a student, from SMKN 1 Cianjur</p>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+</div>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">👩‍💻 About Me</h2>
+
+<p align="center">
+  ✨ Creating bugs since 2024 <br>
+  📚 I'm currently learning Dart and PHP <br>
+  🎯 Goals: Create a useful application project <br>
+  🎲 Fun fact: Can't sleep peacefully if the task isn't finished
+</p>
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Dart and PHP<br>🎯 Goals: Create a useful application project<br>🎲 Fun fact: Can't sleep peacefully if the task isn't finished</p>
+<h2 align="center">🛠 I Code With</h2>
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -34,13 +37,35 @@
 
 ###
 
+<h2 align="center">🔥 My Stats</h2>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rukadevata&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rukadevata&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rukadevata&show_icons=true&theme=dracula&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rukadevata&layout=compact&theme=dracula&langs_count=6" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Rukadevata&theme=dracula&hide_border=false&border_radius=5" height="180" alt="streak graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=Rukadevata&theme=dracula&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/rukadevata/rukadevata/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rukadevata/Rukadevata/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rukadevata/Rukadevata/output/snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Rukadevata/Rukadevata/output/snake.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
