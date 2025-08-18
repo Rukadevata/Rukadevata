@@ -1,7 +1,5 @@
 <h1 align="center">Hello World!</h1>
 
-###
-
 <h2 align="left">👩‍💻 About Me</h2>
 
 <p align="left">
@@ -38,17 +36,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rukadevata&layout=compact&theme=dracula&langs_count=6" height="150" alt="languages graph" />
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Rukadevata&theme=dracula&hide_border=false&border_radius=5" height="180" alt="streak graph" />
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=Rukadevata&theme=dracula&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
 </div>
 
+<br>
+
 ###
 
-<br clear="both">
+<br>
 
 <img src="https://raw.githubusercontent.com/rukadevata/rukadevata/output/snake.svg" alt="Snake animation" />
 
