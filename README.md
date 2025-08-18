@@ -2,9 +2,9 @@
 
 ###
 
-<h2 align="center">👩‍💻 About Me</h2>
+<h2 align="left">👩‍💻 About Me</h2>
 
-<p align="center">
+<p align="left">
   ✨ Creating bugs since 2024 <br>
   📚 I'm currently learning Dart and PHP <br>
   🎯 Goals: Create a useful application project <br>
@@ -13,9 +13,9 @@
 
 ###
 
-<h2 align="center">🛠 I Code With</h2>
+<h2 align="left">🛠 I Code With</h2>
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -31,7 +31,7 @@
 
 ###
 
-<h2 align="center">🔥 My Stats</h2>
+<h2 align="left">🔥 My Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rukadevata&show_icons=true&theme=dracula&count_private=true" height="150" alt="stats graph" />
