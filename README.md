@@ -1,7 +1,4 @@
-<h1 align="center">
-  Hello World! <br>
-  My name is Bama and I'm a student, from SMKN 1 Cianjur.
-</h1>
+<h1 align="center">Hello World!</h1>
 
 ###
 
