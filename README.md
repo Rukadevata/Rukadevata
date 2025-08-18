@@ -1,4 +1,4 @@
-# Hello World!!!
+# 👋 Hello World!!!
 
 My name is Bama and I'm a student, from SMK Negeri 1 Cianjur.
 
