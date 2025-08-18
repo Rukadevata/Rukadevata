@@ -58,6 +58,4 @@
 
 <img src="https://raw.githubusercontent.com/rukadevata/rukadevata/output/snake.svg" alt="Snake animation" />
 
-<img src="https://raw.githubusercontent.com/rukadevata/rukadevata/output/pacman-contribution-graph.svg" alt="Pacman animation" />
-
 ###
