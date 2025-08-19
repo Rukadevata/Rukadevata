@@ -1,6 +1,6 @@
-# 👋 Hello World!!!
+# <h1 align="center">👋 Hello World!!!</h1>
 
-My name is Bama and I'm a student, from SMK Negeri 1 Cianjur.
+<p align="center">My name is Bama and I'm a student, from SMK Negeri 1 Cianjur.</p>
 
 ---
 
