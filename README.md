@@ -6,10 +6,12 @@
 
 ## 🧑‍💻 About me
 
+<p align="center">
   - ✨ Creating bugs since 2024
   - 📚 I'm currently learning Dart and PHP
   - 🎯 Goals: Create applications that run well
   - 🎲 Fun fact: Life is not peaceful if the task is not finished
+</p>
 
 ---
 
@@ -38,7 +40,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rukadevata&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/rukadevata/rukadevata/output/snake.svg" alt="Snake animation" />
+<img align= "center" src="https://raw.githubusercontent.com/rukadevata/rukadevata/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rukadevata.rukadevata&"  />
