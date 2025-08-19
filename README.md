@@ -6,12 +6,10 @@
 
 ## 🧑‍💻 About me
 
-<p align="center">
   - ✨ Creating bugs since 2024
   - 📚 I'm currently learning Dart and PHP
   - 🎯 Goals: Create applications that run well
   - 🎲 Fun fact: Life is not peaceful if the task is not finished
-</p>
 
 ---
 
